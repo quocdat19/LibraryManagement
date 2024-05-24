@@ -1,0 +1,35 @@
+
+†
+java:S1488…"cImmediately return this expression instead of assigning it to the temporary variable "birthOfDate".(–úå­øÿÿÿÿ8Œÿ£¦ú1
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(ÒÎŞ8™ÿ£¦ú1
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(µâÜğ8™ÿ£¦ú1
+T	java:S106n"9Replace this use of System.out or System.err by a logger.(º²=8™ÿ£¦ú1
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(ğÃ”­üÿÿÿÿ8›ÿ£¦ú1
+b
+java:S1117v"@Rename "customerName" which hides the field declared at line 12.(ñåÜıÿÿÿÿ8¶ø¬¦ú1
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(Õòˆ‚8›ÿ£¦ú1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ø›¦Şøÿÿÿÿ8œÿ£¦ú1
+b
+java:S1117…"?Rename "birthOfDate" which hides the field declared at line 13.(–úå­øÿÿÿÿ8œÿ£¦ú1
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(íÆµ®ùÿÿÿÿ8ÿ£¦ú1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(õ¿×’8ÿ£¦ú1
+W
+java:S1117"9Rename "email" which hides the field declared at line 14.(Ø×…ù8ÿ£¦ú1
+U	java:S106“"9Replace this use of System.out or System.err by a logger.(œ†²8ÿ£¦ú1
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(Ÿ‡Ï¨ıÿÿÿÿ8ÿ£¦ú1
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(ğâ¿¯8ÿ£¦ú1
+U	java:S106©"9Replace this use of System.out or System.err by a logger.(¨ğ¨8ÿ£¦ú1
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(Æñ¥ì8Ÿÿ£¦ú1
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(««†–8Ÿÿ£¦ú1
+`
+java:S1117·"BRename "customerStatus" which hides the field declared at line 17.(ÁÆÃã8Úû´¦ú1
+V	java:S106»"9Replace this use of System.out or System.err by a logger.(œ×…Ó8Ÿÿ£¦ú1
+n
+java:S3457À"Q%n should be used in place of \n to produce the platform-specific line separator.(¶Ã s8Şã¼¦ú1
+U	java:S106À"9Replace this use of System.out or System.err by a logger.(¶Ã s8 ÿ£¦ú1
+t
+java:S3457Á"Q%n should be used in place of \n to produce the platform-specific line separator.(¼Õúúùÿÿÿÿ8²Ë¾¦ú1
+[	java:S106Á"9Replace this use of System.out or System.err by a logger.(¼Õúúùÿÿÿÿ8 ÿ£¦ú1
+t
+java:S3457Â"Q%n should be used in place of \n to produce the platform-specific line separator.(œøêÀüÿÿÿÿ8ã¹¿¦ú1
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(œøêÀüÿÿÿÿ8 ÿ£¦ú1
